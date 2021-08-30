@@ -2,3 +2,13 @@ body{
     background-color: #1f8664;
     background-image: url('../../images/wp4676582.jpg');
 }
+li.linave{
+float:left;
+}
+li.linav a {
+    display: block;
+    color: crimson;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
