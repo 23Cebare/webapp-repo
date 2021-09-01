@@ -40,3 +40,26 @@ a.nav:hover{
     color:blue;
     font-family: verdana;
 }
+#page_container{
+border-radius: 5px;
+border: 2px #333333 solid;
+padding: 10px;
+height: 800px;
+width: 700px;
+background: darkgrey;
+}
+p.p_content1{
+    font-size: 12pt;
+    color: black;
+    font-family: verdana;
+    background-color: black;
+    padding: 5px;
+    border-radius: 3px;
+    border: solid #333333;
+}
+span.font1{
+    font-size: 20pt;
+    color: white;
+    font-family: verdana;
+    font-weight: bold;
+}
