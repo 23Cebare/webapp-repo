@@ -43,9 +43,11 @@ a.nav:hover{
 #page_container{
 border-radius: 5px;
 border: 2px #333333 solid;
+margin-left: auto;
+margin-right: auto;
 padding: 10px;
 height: 800px;
-width: 700px;
+width: 90%;
 background: darkgrey;
 }
 p.p_content1{
@@ -62,4 +64,10 @@ span.font1{
     color: white;
     font-family: verdana;
     font-weight: bold;
+}
+body {
+    background-color: blanchedalmond;
+}
+table.table3{
+    border-radius: ;
 }
